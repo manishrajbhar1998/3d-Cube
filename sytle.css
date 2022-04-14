@@ -9,7 +9,7 @@ body{
     background:linear-gradient(#08132e,#3E497A) ;
 }
 .container{
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     height: 60%;
     width: 50%;
     position: absolute;
